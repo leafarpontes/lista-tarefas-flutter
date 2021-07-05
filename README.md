@@ -1,16 +1,20 @@
-# lista_tarefas
+# Lista de Tarefas Flutter
 
-A new Flutter project.
+Aplicativo de lista de tarefas feito com Flutter.\
+Com o app você pode:
+- Adicionar novas tarefas
+- Marcar/desmarcar tarefa como concluída
+- Atualizar a lista e ordenar para que tarefas não concluídas apareçam em primeiro
+- Remover tarefas
+- Desfazer remoção de tarefas
 
-## Getting Started
+As tarefas são salvas e se o usuário reiniciar o app elas continuarão lá até que sejam removidas manualmente.\
+Para remover uma tarefa basta arrastar a tarefa para a direita.
 
-This project is a starting point for a Flutter application.
+## Interface
 
-A few resources to get you started if this is your first Flutter project:
+**Tela inicial**\
+![](https://i.imgur.com/OpQVQYF.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Tela com tarefas adicionadas**\
+![](https://i.imgur.com/FJpihUa.png)
